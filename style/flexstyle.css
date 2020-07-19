@@ -1,0 +1,20 @@
+#header,#footer{
+    text-align: center;
+    display: block;
+    color: white;   
+}
+.container #secondary{
+    color: whitesmoke;
+    order: 1;
+    width: min-content;
+}
+.container #content{
+    color: whitesmoke;
+    order: 2;
+    
+}
+.container #tertiary{
+    color: whitesmoke;
+    order: 3;
+    width: min-content;
+}

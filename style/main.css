@@ -1,0 +1,50 @@
+#header{
+    border: 2px solid whitesmoke;
+    height: 30px;
+    margin: 20px 30px;
+    text-align: center;
+    border-radius: 5px;
+    display: inline;
+    background-color: rgba(255,255,255, 0.15);
+    padding-top: 12px;
+}
+#footer{
+    border: 2px solid whitesmoke;
+    height: 30px;
+    margin: 20px 30px;
+    text-align: center;
+    border-radius: 5px;
+    display: inline;
+    background-color: rgba(255,255,255, 0.15);
+    padding-top: 12px;
+}
+
+#holygrail{
+    background-image: linear-gradient(to top,#772953,#e95420) ;
+   
+}
+#main{
+    border: 3px solid whitesmoke;
+    margin: 0px 30px;
+    display: flex;
+    background-color: rgba(255,255,255, 0.15);
+    border-radius: 5px;
+}
+.container #content{
+    border: 3px solid whitesmoke;
+    padding: 30px;
+    margin: 20px 10px;
+    border-radius: 5px;
+}
+.container #secondary{
+    border: 3px solid whitesmoke;
+    padding: 30px;
+    margin: 20px 20px;
+    border-radius: 5px;
+}
+.container #tertiary{
+    border: 3px solid whitesmoke;
+    padding: 30px;
+    margin: 20px 20px; 
+    border-radius: 5px;
+}
